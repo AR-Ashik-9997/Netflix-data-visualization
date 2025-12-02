@@ -7,15 +7,7 @@ summary: "Excited to share my latest data science project where I explored Netfl
 
 This project helped me sharpen my data wrangling and visualization skills while uncovering some cool insights about Netflix’s strategy.
 
-Check the google Colab:
-
-<CodeBlock compact marginBottom="16" codes={[
-{
-    code: "git clone https://colab.research.google.com/drive/1R36p73WW6NIzdLRO2GnQhD5aDxlfNHbY?usp=sharing",
-    language: "bash"
-  }
-]} 
-/>
+Check the google Colab: https://colab.research.google.com/drive/1R36p73WW6NIzdLRO2GnQhD5aDxlfNHbY?usp=sharing
 
 ### Key Features
 - Performed full exploratory data analysis (EDA) on **8,800+** Netflix titles from a real Kaggle dataset  
