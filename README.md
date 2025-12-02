@@ -7,8 +7,11 @@ summary: "Excited to share my latest data science project where I explored Netfl
 
 This project helped me sharpen my data wrangling and visualization skills while uncovering some cool insights about Netflix’s strategy.
 
-Check the google Colab: https://colab.research.google.com/drive/1R36p73WW6NIzdLRO2GnQhD5aDxlfNHbY?usp=sharing
+### Check the google Colab
 
+```bash
+https://github.com/once-ui-system/magic-portfolio.git
+```
 ### Key Features
 - Performed full exploratory data analysis (EDA) on **8,800+** Netflix titles from a real Kaggle dataset  
 - Cleaned messy real-world data: nested columns, inconsistent dates, duplicates, and high missing-value rates  
@@ -34,7 +37,10 @@ Check the google Colab: https://colab.research.google.com/drive/1R36p73WW6NIzdLR
 - Direct messages from recruiters praising the clean code and storytelling  
 - Added a strong, real-world portfolio piece showcasing end-to-end EDA skills  
 - Significantly leveled up confidence and speed with Pandas, Matplotlib, and Seaborn  
-- Reinforced that great projects + great presentation = massive visibility  
+- Reinforced that great projects + great presentation = massive visibility
+
+
+
  
 
 
