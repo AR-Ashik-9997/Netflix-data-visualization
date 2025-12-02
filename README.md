@@ -10,7 +10,7 @@ This project helped me sharpen my data wrangling and visualization skills while 
 ### Check the google Colab
 
 ```bash
-https://github.com/once-ui-system/magic-portfolio.git
+https://colab.research.google.com/drive/1R36p73WW6NIzdLRO2GnQhD5aDxlfNHbY?usp=sharing
 ```
 ### Key Features
 - Performed full exploratory data analysis (EDA) on **8,800+** Netflix titles from a real Kaggle dataset  
