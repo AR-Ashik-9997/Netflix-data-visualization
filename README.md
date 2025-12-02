@@ -1,8 +1,3 @@
-
-title: "Netflix Movies & TV Shows Data Analysis "
-publishedAt: "2025-10-28"
-summary: "Excited to share my latest data science project where I explored Netflix's content trends using a Kaggle dataset!"
-
 ## Overview
 
 This project helped me sharpen my data wrangling and visualization skills while uncovering some cool insights about Netflix’s strategy.
